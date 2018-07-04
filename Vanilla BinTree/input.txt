@@ -1,0 +1,22 @@
+steps=1
+time horizon=1.40
+S=101.00
+u=1.20
+d=0.95
+r=0.03
+
+number of instruments in portfolio=2
+
+instrument=option
+exercise=european
+position=long
+type=call
+strike=98.00
+expiry=1.40
+
+instrument=option
+exercise=european
+position=short
+type=put
+strike=10.00
+expiry=1.40
