@@ -1,7 +1,7 @@
 Pricing and analysis of financial instruments 2
 =====
 
-All scripts/programs which I have done during 'Pricing and analysis of financial instruments 2' course conducted by Piotr Sobczyk at the Institute of Mathematics (University of Wrocław). 
+All scripts/programs that I have done during 'Pricing and analysis of financial instruments 2' course conducted by Paweł Kawa at the Institute of Mathematics (University of Wrocław). 
 
 COURSE SYLLABUS  (in Polish)
 ===============
