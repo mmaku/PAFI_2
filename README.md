@@ -22,50 +22,27 @@ SKRÓCONY OPIS:
 
 PEŁNY OPIS:
 
-a. Pożyczki i typowe konstrukcje ich spłaty.
-
-c. Schemat amortyzacji i Outstanding Loan Balance.
-
-d. Równanie różnicowe i różniczkowe konta bankowego.
-
-e. Swapy waniliowe i ich wycena.
-
-f. Swapy walutowe i ich wycena.
-
-g. Bardziej egzotyczne przykłady swapów.
-
-h. Kontrakty forward, profile wypłat.
-
-i. Bezarbitrażowy model wyceny.
-
-j. Prawo jednej ceny.
-
-k. Cena portfela niewrażliwego na ryzyko.
-
-l. Wycena waniliowego kontraktu forward.
-
-m. Wycena kontraktu forward na akcję wypłacającą dywidendę (kwotową oraz procentową).
-
-n. Wycena kontraktu forward na kupno waluty.
-
-m. Opcje europejskie call / put. Charakterystyka, zastosowanie, payoffy.
-
-n. Strategie inwestycyjne oparte o opcje (tj. bull & bear spreads, straddles, strangles, butterfiles, condors).
-
-o. Bezarbitrażowe i niezależne od modelu wyceny informacje o cenie opcji (tj. parytet put-call, nierówności dotyczące cen opcji)
-
-p. Modele dynamiki cen akcji (przegląd).
-
-q. Model dwumianowy jednookresowy i wycena w nim opcji europejskiej call.
-
-r. Przejście z modelu dwumianowego jednookresowego do wielookresowego.
-
-s. Wycena w języku wartości oczekiwanych - prawdopodobieństwo neutralne (martyngałowe).
-
-t. Uogólnienie wyceny na inne (dowolne osiągalne) instrumenty typu europejskiego w modelu dwumianowym wielookresowym.
-
-u. Instrumenty path-independent i path-dependent i trudności związane z wyceną w modelu dwumianowym.
-
-v. Instrumenty typu amerykańskiego i ich wycena w modelu dwumianowym. Optymalny moment wykonania opcji.
-
-w. Zagadnienie dywersyfikacji ryzyka inwestycyjnego - klasyczny model Markowitza.
+- Pożyczki i typowe konstrukcje ich spłaty.
+- Schemat amortyzacji i Outstanding Loan Balance.
+- Równanie różnicowe i różniczkowe konta bankowego.
+- Swapy waniliowe i ich wycena.
+- Swapy walutowe i ich wycena.
+- Bardziej egzotyczne przykłady swapów.
+- Kontrakty forward, profile wypłat.
+- Bezarbitrażowy model wyceny.
+- Prawo jednej ceny.
+- Cena portfela niewrażliwego na ryzyko.
+- Wycena waniliowego kontraktu forward.
+- Wycena kontraktu forward na akcję wypłacającą dywidendę (kwotową oraz procentową).
+- Wycena kontraktu forward na kupno waluty.
+- Opcje europejskie call / put. Charakterystyka, zastosowanie, payoffy.
+- Strategie inwestycyjne oparte o opcje (tj. bull & bear spreads, straddles, strangles, butterfiles, condors).
+- Bezarbitrażowe i niezależne od modelu wyceny informacje o cenie opcji (tj. parytet put-call, nierówności dotyczące cen opcji)
+- Modele dynamiki cen akcji (przegląd).
+- Model dwumianowy jednookresowy i wycena w nim opcji europejskiej call.
+- Przejście z modelu dwumianowego jednookresowego do wielookresowego.
+- Wycena w języku wartości oczekiwanych - prawdopodobieństwo neutralne (martyngałowe).
+- Uogólnienie wyceny na inne (dowolne osiągalne) instrumenty typu europejskiego w modelu dwumianowym wielookresowym.
+- Instrumenty path-independent i path-dependent i trudności związane z wyceną w modelu dwumianowym.
+- Instrumenty typu amerykańskiego i ich wycena w modelu dwumianowym. Optymalny moment wykonania opcji.
+- Zagadnienie dywersyfikacji ryzyka inwestycyjnego - klasyczny model Markowitza.
